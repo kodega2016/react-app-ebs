@@ -17,6 +17,7 @@ function App() {
         >
           Learn React and Redux
         </a>
+        <p>with kodega2016</p>
       </header>
     </div>
   );
