@@ -22,3 +22,5 @@ deploy our application to EBS.
 >
 > - service role: `aws-elasticbeanstalk-service-role`
 > - ec2 instance profile: `aws-elasticbeanstalk-ec2-role`
+
+[Blog Here...](https://dev.to/kodega2016/deploy-a-react-application-to-elastic-beanstalk-using-github-actions-and-provision-with-terraform-45op)
